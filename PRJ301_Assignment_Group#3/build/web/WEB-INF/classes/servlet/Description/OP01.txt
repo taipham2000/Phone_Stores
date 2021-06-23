@@ -1,0 +1,20 @@
+_tit: Thiết kế đẹp đậm chất OPPO Reno Series
+_txt: Có thể nói OPPO Reno5 là mẫu điện thoại phô diễn được đỉnh cao thiết kế và công nghệ chế tác của OPPO khi bề mặt lưng được phủ lớp Reno Glow với ngàn tinh thể phát sáng siêu nhỏ tạo nên hiệu ứng chuyển sắc vô cùng hút mắt.
+_img: oppo-reno5-231120-031101.jpg
+_txt: Mặt trước OPPO Reno5 cũng ấn tượng không kém với màn hình tràn viền được làm cong nhẹ 2.5D. Hai bên cạnh viền siêu mỏng, thiết kế camera đục lỗ giúp không gian hiển thị được mở rộng tối đa.
+_img: oppo-reno5-231320-031318.jpg
+_txt: Các góc cạnh của OPPO Reno5 cũng được bo cong mềm mại về 2 phía bên cạnh của máy giúp máy nhìn trông mỏng hơn và tạo sự dễ chịu mỗi khi cầm sử dụng.
+_img: oppo-reno5-133821-103834.jpg
+_tit: Bức phá hiệu năng với vi xử lý Snapdragon 720G mới
+_txt: Reno5 được OPPO ưu ái trang bị vi xử lý Snapdragon 720G, hậu tố “G” phía sau Snapdragon 720 ý muốn nói đây là dòng chip chuyên game đi kèm tính năng Elite Gaming của Qualcomm.
+_img: oppo-reno5-181120-031138.jpg
+_txt: Không phải bàn về hiệu năng của Snapdragon 720G, khi đây là vi xử lý chuyên chơi game với những nâng cấp ấn tượng về xung nhịp lẫn khả năng đồ họa, hứa hẹn mang đến trải nghiệm game đỉnh cao.
+_img: oppo-reno5-180520-030502.png
+_txt: Bên cạnh đó, OPPO Reno5 còn chiếm ưu thế về lưu trữ và đa nhiệm khi trang bị RAM 8 GB tốc độ LPDDR4x cùng bộ nhớ trong 128 GB UFS 2.1, OPPO Reno5 vẫn dư sức cho bạn thoải mái cài đặt ứng dụng, lưu trữ ảnh, nhạc, video, đáp ứng đủ nhu cầu lưu trữ của bạn.
+_img: oppo-reno5-231620-031631.jpg
+_txt: Qua phần đánh giá hiệu năng Antutu, OPPO Reno5 đạt được 287.975 điểm, với số điểm này dễ dàng giúp máy chiến hầu hết các tựa game từ nhẹ đến nặng một cách mượt mà, ổn định.
+_img: oppo-reno5-1-3.jpg
+_tit: Màn hình lớn chuyển động 90 Hz mượt mà
+_txt: Màn hình chính là điểm cộng giúp cho Reno5 vượt trội trong tầm giá, khi tích hợp tần số quét 90 Hz và tốc độ lấy mẫu cảm ứng 180 Hz, mang đến độ mượt mà trong trải nghiệm vuốt chạm hàng ngày và cảm ứng siêu nhạy không độ trễ khi chơi game.
+_img: oppo-reno5-231920-031951.jpg
+_txt: Sở hữu màn hình rộng cùng tấm nền AMOLED Full HD+ sắc nét, OPPO Reno5 mang đến trải nghiệm đẳng cấp với màu sắc sống động, độ sáng cao, màu đen sâu thu hút bạn tập trung vào nội dung giải trí.

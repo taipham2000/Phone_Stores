@@ -1,0 +1,36 @@
+_tit: Đột phá trong thiết kế thời thượng
+_txt: Không chỉ đơn thuần phục vụ giao tiếp và giải trí, Samsung Galaxy S21 Ultra 5G còn chính là món phụ kiện thời trang khẳng định vị thế của người sở hữu. Vẻ ngoài mảnh mai và thon gọn đến bất ngờ chỉ 165.1 x 75.6 x 8.9 mm và trọng lượng 228 g dù phải “vác” một viên pin lớn.
+_img: samsung-galaxy-s21-ultra-5g-21.jpg
+_txt: Mặt lưng của thiết bị được phủ bởi lớp kính Gorilla Glass Victus nhám mờ, sang trọng bền bỉ vừa hạn chế bám dấu vân tay tối đa, vừa tạo nên vẻ ngoài tinh xảo và cuốn hút đến bất ngờ.
+_img: samsung-galaxy-s21-ultra-192321-082347.jpg
+_txt: Ngoài ra, Galaxy S21 Ultra 5G là mẫu flagship S đầu tiên của Samsung hỗ trợ chiếc bút S Pen, một công cụ vốn đã quen thuộc với nhiều người dùng Galaxy Note. Bằng việc sử dụng công nghệ Wacom, chiếc bút mang đến cảm giác cầm thoải mái hơn và thật hơn.
+_img: samsung-galaxy-s21-ultra-5g-20.jpg
+_txt: Máy có hỗ trợ khả năng kháng nước, kháng bụi theo tiêu chuẩn IP68. Nhờ đó, nó có thể ngâm nước ở độ sâu 1.5 m trong 30 phút.
+_tit: Thỏa mãn thị giác hơn bao giờ hết
+_txt: Samsung Galaxy S21 Ultra 5G sở hữu màn hình kích thước lớn lên đến 6.8 inch. Màn hình vô cực “ít cong” hơn và viền bezel mỏng xung quanh, cùng camera selfie đục lỗ Infinity-O khá nhỏ giúp máy đạt tỉ lệ màn hình tới 20:9 đáng mơ ước.
+_txt: Tấm nền Dynamic AMOLED 2X với công nghệ hiển thị màu sắc rực rỡ, độ sáng tối đa lên tới 1500 nits mang đến trải nghiệm giải trí sống động đầy cảm xúc với dung lượng màu 100% cho màu sắc chính xác và chân thật, ngay cả khi sử dụng dưới điều kiện ngoài trời.
+_img: samsung-galaxy-s21-ultra-5g-6.jpg
+_txt: Đặc biệt, máy hỗ trợ công nghệ HDR10+ và tần số quét 120 Hz giúp thao tác, cuộn mượt mà cùng khả năng tự điều chỉnh tần số để tiết kiệm pin.
+_img: samsung-galaxy-s21-ultra-192421-082411.jpg
+_txt: Không chỉ được bảo vệ bởi kính cường lực Gorilla Glass Victus, màn hình của Samsung Galaxy S21 Ultra 5G cũng đạt chứng nhận bảo vệ mắt (Eye care) từ SGS nhằm ngăn chặn đáng kể tác hại của ánh sáng xanh, nổi bật với tính năng Eye Comfort Shield.
+_txt: Galaxy S21 Ultra 5G trang bị cảm biến vân tay ẩn dưới màn hình cho tốc độ mở khóa nhanh chóng và chính xác ở độ bảo mật cao. 
+_tit: Sức mạnh kinh khủng từ chip Exynos 2100
+_txt: Samsung Galaxy S21 Ultra 5G được tích hợp vi xử lý Exynos 2100, sản xuất trên tiến trình 5 nm bao gồm 8 lõi có tốc độ xung nhịp lên đến 2.9 GHz, tối ưu hóa hiệu suất năng lượng đồng thời tiết kiệm điện năng hết sức có thể.
+_img: samsung-galaxy-s21-ultra-190821-100857.jpg
+_txt: Chipset này cải thiện hiệu suất AI nhanh hơn 2 lần, CPU tăng 20% và GPU tăng 35% so với Exynos 990. Ngoài ra, máy sử dụng RAM 12 GB, bộ nhớ trong 128 GB.
+_txt: Với cấu hình này, người dùng hoàn toàn có thể yên tâm mọi tác vụ được xử lý nhanh chóng, thoải mái đa nhiệm cùng lúc nhiều ứng dụng nặng như chơi game, mạng xã hội mà không bị giật lag.
+_txt: Hơn thế nữa, chipset mạnh mẽ này cũng tương thích với cả 5G, WiFi HyperFast và Wifi 6E mới nhất, giúp bạn luôn kết nối trong thời gian thực, tốc độ tải chỉ trong nháy mắt.
+_img: samsung-galaxy-s21-ultra-193721-103717.jpg
+_txt: Thậm chí trải nghiệm chơi game được đưa lên một tầm cao mới với sự kết hợp màn hình 120 Hz phản hồi nhanh chóng cùng ứng dụng tăng hiệu suất trò chơi Game Booster giúp tối ưu hóa pin và giảm nhiệt độ máy để bạn có được trải nghiệm game tốt nhất.
+_tit: Sẵn sàng khám phá thế giới với camera đẳng cấp
+_txt: Thiết kế màn hình đục lỗ chứa camera selfie 40 MP có khẩu độ f/2.2 để phục vụ những tín đồ thích chụp ảnh selfie, bên cạnh chế độ HDR, hiệu ứng làm đẹp AR Stickers đa dạng, camera này còn hỗ trợ tính năng selfie góc rộng để phục vụ nhu cầu selfie nhóm hay với khung cảnh rộng lớn.
+_img: samsung-galaxy-s21-ultra-192421-082427.jpg
+_txt: Mặt sau của Samsung Galaxy S21 Ultra 5G nổi bật với cụm mô-đun 4 camera được trang bị đèn flash LED và hỗ trợ lấy nét bằng laser.
+_img: samsung-galaxy-s21-ultra-192421-082445.jpg
+_txt: Trong đó, nổi bật là camera chính 108 MP có khẩu độ f/1.8 cho chất lượng hình ảnh có độ chi tiết sắc nét, màu sắc và chiều sâu đáng kể.
+_img: samsung-galaxy-s21-ultra-5g-4.jpg
+_txt: Thỏa thích khám phá góc nhìn rộng hơn với camera góc siêu rộng 12 MP có khẩu độ f/2.2. Giờ đây, người dùng không phải lo lắng hình ảnh bị nhòe đi với camera tele 10 MP có khẩu độ f/2.4 giúp zoom quang học 3x và camera tele tiềm vọng 10 MP có khẩu độ f/4.9 cho khả năng zoom quang 10x hoặc zoom kỹ thuật số 100x.
+_img: samsung-galaxy-s21-ultra-5g-5.jpg
+_txt: Bên cạnh đó, chế độ ban đêm siêu nét của của máy cho phép chụp ảnh rõ nét đáng kinh ngạc, ít nhiễu hơn đáng kể và chế độ chân dung đầy chiều sâu nghệ thuật làm bật vẻ đẹp chủ thể, tách biệt hoàn toàn với phần hậu cảnh.
+_txt: Ấn tượng với khả năng quay video 8K trên Galaxy S21 Ultra 5G  được ghi lại ở tốc độ 24 khung hình / giây cho ra những cảnh quay sắc nét, chất lượng cao.
+_img: samsung-galaxy-s21-ultra-192521-082511.jpg

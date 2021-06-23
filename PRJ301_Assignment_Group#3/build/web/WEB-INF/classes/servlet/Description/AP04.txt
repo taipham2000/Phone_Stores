@@ -1,0 +1,30 @@
+_tit: Gọn nhẹ chắc chắn thoải mái sử dụng
+_txt: iPhone SE 2020 có thiết kế khá nhỏ bé khi đặt cạnh các smartphone màn hình khủng hiện nay, nhưng với những ai không thích kiểu thiết kế tràn viền và màn hình lớn, thì đây sẽ là lựa chọn tốt nhất cho họ.
+_txt: Với màn hình 4.7 inch, viền màn hình khá dày, cùng cảm biến vân tay Touch ID, các cạnh bo cong hoàn hảo, iPhone SE 2020 mang lại cảm giác cầm nắm quen thuộc, kích thước nhỏ gọn để bạn sử dụng 1 tay một cách dễ dàng.
+_txt: Chiếc điện thoại mới nhà Táo trang bị màn hình Retina 4.7 inch, tuy chỉ có độ phân giải HD nhưng vẫn cho chất lượng hiển thị tốt với công nghệ True Tone tự cân chỉnh màu theo môi trường xung quanh.
+_img: iphone-se-256gb-20206.jpg
+_txt: Cũng giống như thế hệ iPhone 7 và iPhone 8, iPhone SE 2020 vẫn trang bị nút home cảm ứng lực phản hồi rung quen thuộc, tích hợp cảm biến vân tay Touch ID thế hệ thứ 2 cho tốc độ nhận diện nhanh và cực kỳ chính xác dù chỉ chạm nhẹ.
+_img: iphone-se-256gb-20205.jpg
+_txt: Bên cạnh đó, mẫu điện thoại iPhone rẻ còn có khả năng chống nước IP67 hạn chế rủi ro khi rơi vào nước hay đi mưa, chiếc điện thoại còn có thể sạc không dây qua mặt lưng kính phía sau khá tiện lợi.
+_img: iphone-se-256gb-2020-223220-013217.jpg
+_tit: Cấu hình vô địch trong tầm giá
+_txt: Có thể nói, trong tầm giá hiện tại hầu như không một chiếc điện thoại Android nào có hiệu năng vượt mặt iPhone SE.
+_txt: Dù ngoại hình khá nhỏ gọn, nhưng bên trong iPhone SE 2020 là một cấu hình “khủng long” với vi xử lý Bionic A13, cho phép máy hoạt động cực kỳ nhanh chóng và mượt mà, thậm chí trong một số trường hợp còn nhanh hơn cả iPhone 11 hay iPhone 11 Pro.
+_img: iphone-se-256gb-2020-131420-111401.jpg
+_txt: Đo hiệu năng AnTuTu, iPhone SE 2020 đạt số điểm 364.049 điểm, với thông số này giúp điện thoại chơi game tốt hơn cũng như tự tin chiến hàng loạt tựa game đồ họa khủng hiện nay, mà không gặp bất cứ tình trạng giật rớt khung hình.
+_img: iphone-se-256gb-2020-203320-053311.jpg
+_txt: Ngoài hiệu năng siêu khủng, thì riêng với phiên bản 256 GB sẽ mang đến cho bạn một không gian lưu trữ khá thoải mái, ở những mẫu điện thoại không hỗ trợ thẻ nhớ như iPhone thì dung lượng bộ nhớ lớn là điều thật sự cần thiết.
+_tit: Một camera vẫn xóa phông mượt mà
+_txt: Tuy chỉ trang bị vỏn vẹn 1 camera ở phía sau và 1 phía trước, nhưng iPhone SE 2020 là điện thoại một camera sau tốt nhất hiện nay ở thời điểm hiện tại.
+_img: iphone-se-256gb-20203.jpg
+_txt: Chất ảnh từ camera sau 12 MP rất tốt, thu và tái tạo được nhiều chi tiết, dải nhạy sáng rộng. Bên cạnh đó, chip A13 Bionic cho phép thiết bị kích hoạt chế độ Smart HDR hỗ trợ chụp một loạt bức ảnh, dùng công nghệ Semantic rendering để phân tích màu sắc, ánh sáng từ đó cho ra bức ảnh tốt nhất.
+_img: iphone-se-256gb-2020-251720-091756.jpg
+_txt: Không chỉ camera sau, mà camera trước của iPhone SE 2020 cũng cho ra những tấm ảnh selfie đẹp ấn tượng, nước da được xử lý mịn màng hơn trước rất nhiều.
+_img: iphone-se-256gb-2020-251620-091611.jpg
+_txt: Với công nghệ đặc biệt của mình, Apple cho biết cả camera trước và sau trên iPhone SE 2020 có thể xóa phông chính xác một cách tự nhiên không thua kém chiếc điện thoại nào có 2 ống kính trở lên.
+_tit: Pin đủ dùng, hỗ trợ sạc nhanh
+_txt: Trang bị mức dung lượng pin khá ít ỏi chỉ 1821 mAh nên thời lượng pin trên iPhone SE 2020 không quá ấn tượng, với những tác vụ nhẹ nhàng cơ bản, chiếc iPhone vẫn có thể hoạt động vừa vặn một ngày.
+_img: iphone-se-256gb-2020-130320-100344.jpg
+_txt: Bù lại, thiết bị sẽ có hỗ trợ sạc pin nhanh 18 W, giúp rút ngắn tối đa thời gian sạc pin. Tuy nhiên, để sử dụng tính năng này, người dùng cần mua thêm bộ sạc 18 W hoặc sử dụng chung bộ sạc của iPhone 11 hoặc 11 Pro.
+_txt: Để có thể sử dụng chiếc iPhone SE 2020 thoải mái hơn, bạn nên sắm thêm pin sạc dự phòng để cấp năng lượng cho dế yêu của mình khi cần thiết.
+_txt: Sở hữu hàng loạt công nghệ khủng, vi xử lý mới nhất đến từ hãng điện thoại danh tiếng bậc nhất Apple, nhưng iPhone SE 2020 lại gây choáng ngợp bởi mức giá hấp dẫn, tiếp tục sẽ là model bán chạy tiếp theo của Apple trong thời gian sắp tới.

@@ -1,0 +1,42 @@
+_tit: Hiệu năng vượt trội, thách thức mọi giới hạn
+_txt: iPhone 12 được trang bị chipset A14 Bionic - bộ xử lý được trang bị lần đầu trên iPad Air 4 vừa được ra mắt cách đây không lâu, mở đầu xu thế chip 5 nm thương mại trên toàn thế giới.
+_img: iphone-12-128gb-144220-034232.jpg
+_txt: Apple cho biết A14 Bionic sẽ mạnh hơn gần 40% chipset A13 Bionic, trong đó khả năng xử lý đồ họa nhanh hơn 50% cũng như các tác vụ học máy mượt mà hơn 80% khi so sánh với bộ xử lý tiền nhiệm.
+_txt: Apple cũng đã hỗ trợ kết nối mạng 5G tốc độ load cực nhanh cho mọi trải nghiệm lướt web, xem phim luôn được ổn định và mượt mà hơn.
+_img: iphone-12-128gb-143520-043510.jpg
+_txt: iPhone 12 cũng được tích hợp thêm chế độ “Smart Data Mode” cho phép máy tự động phát hiện ứng dụng, các thao tác nào cần nhiều băng thông để kích hoạt 5G. Nếu sử dụng các tác vụ thông thường máy sẽ chuyển sang chế độ 4G LTE phù hợp với từng điều kiện sử dụng, giúp tiết kiệm dữ liệu, hạn chế nóng máy và duy trì thời lượng pin sử dụng cho người dùng.
+_txt: Được trang bị con chip mạnh nhất hiện nay đi kèm với khả năng kết nối mạng 5G giúp điện thoại chơi game mượt mà nay lại mượt mà hơn. Với sự chuyển động trơn tru, tốc độ load nhanh với độ trễ gần như bằng không chắc chắn sẽ đem đến sự hài lòng đến với người dùng.
+_img: iphone-12-128gb-144020-034022.jpg
+_txt: Ngoài ra, đi kèm với máy là bộ nhớ trong 128 GB cho khả năng lưu trữ mọi dữ liệu như hình ảnh, video hay các ứng dụng. Nếu nhu cầu lưu trữ quá cao bạn có thể tham khảo phiên bản iPhone 12 256 GB hoặc có thể lưu trên các tiện ích đám mây.
+_img: iphone-12-128gb-043621-033612.jpg
+_tit: Vẻ đẹp gợi nhớ và chuẩn màn hình OLED
+_txt: iPhone 12 lấy cảm hứng vẻ đẹp hoài niệm của iPhone 4 và iPhone 5 từ những năm về trước hay các dòng iPad Pro và iPad Air mới nhất thay vì bo cong như iPhone 11.
+_img: iphone-12-128gb-043021-033028.jpg
+_txt: Màn hình iPhone 12 có kích thước 6.1 inch độ phân giải 1170 x 2532 Pixels, khung viền bao quanh mặt kính được làm từ nhôm thay vì thép trên dòng Pro.
+_img: iphone-12-128gb-043321-033320.jpg
+_txt: Màn hình Super Retina XDR OLED tràn viền được trang bị trên iPhone 12 cho trải nghiệm xem được sáng hơn, đắm chìm hơn. Hỗ trợ True Tone và có độ sáng tối đa là 1.200 nits ở HDR và độ sáng tiêu biểu tối đa là 625 nits từ đó giúp máy đủ sáng để hoạt động tốt khi sử dụng dưới ánh nắng mặt trời.
+_img: iphone-12-128gb-123020-113018.jpg
+_txt: Tần số quét chỉ là 60 Hz nhưng bù vào đó máy được bảo vệ bởi một công nghệ mới gọi là Ceramic Shield, mang đến bước tiến nhảy vọt về độ bền chưa từng có trên iPhone. Apple cho biết vật liệu mới này có khả năng chống vỡ gấp 4 lần so với kính cường lực Gorilla Glass cho bạn yên tâm hơn trong quá trình sử dụng.
+_txt: Để phù hợp với tính cách cũng như sở thích riêng biệt của mỗi người iPhone 12 ra mắt với 5 màu sắc khác nhau cho bạn có thêm nhiều sự lựa chọn.
+_img: iphone-12-128gb-144320-034353.jpg
+_tit: Hệ thống camera kép chuyên nghiệp
+_txt: iPhone 12 có 2 cảm biến để cải thiện khả năng chụp ảnh, đây là các ống kính tiêu chuẩn 12 MP khẩu độ f/1.6 và camera góc siêu rộng 12 MP khẩu độ f/2.4 cho góc nhìn 120 độ đem đến những khung ảnh thiên nhiên hùng vĩ một cách bao quát hay những tòa nhà cao tầng chỉ trong một khung hình.
+_img: iphone-12-128gb-043221-033204.jpg
+_txt: Theo Apple, ống kính khẩu độ lớn trên máy sẽ giúp khả năng chụp ảnh thiếu sáng được cải thiện thêm 27% và giảm nhiễu hơn so với thế hệ trước. Vì vậy, cho dù ban ngày hay ban đêm với ánh sáng yếu, bạn sẽ nhận được mức độ chi tiết và màu sắc mà trước đây không thể có.
+_img: iphone-12-128gb-141020-041016.jpg
+_txt: Thiết bị còn hỗ trợ các tính năng tiêu chuẩn như chế độ chân dung, zoom kỹ thuật số 5x, toàn cảnh. Ngoài ra, tính năng nâng cao như Smart HDR 3 mới để giúp bạn chụp ảnh với màu sắc và độ tương phản được cải thiện, cũng như các cải tiến về chế độ ban đêm.
+_img: iphone-12-128gb-141420-041412.jpg
+_txt: Chế độ chân dung thậm chí còn tốt hơn trong việc làm mờ hậu cảnh một cách nghệ thuật để dồn toàn bộ sự tập trung vào đối tượng của bạn.
+_img: iphone-12-128gb-141220-041255.jpg
+_txt: Tính năng Deep Fusion trong điều kiện ánh sáng từ trung bình đến yếu nó phân tích nhiều độ phơi sáng để tối đa hóa chi tiết giúp bạn có có một góc nhìn tuyệt đẹp.
+_img: iphone-12-128gb-141720-041720.jpg
+_txt: Ở phần notch mặt trước của điện thoại iPhone 12 còn có camera selfie 12 MP ở khẩu độ f/2.2 và mang nhiều tính năng tương tự như máy ảnh chính, chẳng hạn như: Chế độ ban đêm, Deep Fusion và Smart HDR 3 cùng nhiều công nghệ khác mang đến chất lượng hình ảnh rõ nét và hoàn mỹ.
+_img: iphone-12-128gb-043321-033329.jpg
+_tit: Công nghệ sạc đa năng
+_txt: iPhone 12 có khả năng lên đến 17 giờ phát video và nghe nhạc liên tục trong khoảng 65 giờ cho mọi trải nghiệm của bạn luôn diễn ra một cách liền mạch.
+_img: iphone-12-128gb-043221-033230.jpg
+_txt: Một iPhone cao cấp phục vụ mọi công việc không thể thiếu tính năng sạc pin nhanh. iPhone 12 cũng được trang bị sạc nhanh 20 W sẽ đảm bảo thiết bị có ngay 50% pin trong 30 phút. Ngoài ra, cũng có tính năng sạc không dây Qi, cho phép nạp năng lượng trên đế sạc không dây hữu ích và tiện lợi.
+_img: iphone-12-128gb-144720-034704.jpg
+_txt: Thiết bị hỗ trợ tính năng sạc không dây MagSafe mới của Apple với công suất 15 W giúp cho quá trình sạc trở nên dễ dàng hơn bao giờ hết.
+_img: iphone-12-128gb-145420-035457.jpg
+_txt: Sự trở lại của iPhone 12 không chỉ đơn thuần là ra mắt, sự lột xác sản phẩm lần này của Apple mà còn mở ra một kỷ nguyên mới về tốc độ mạng 5G. Hứa hẹn đây là smartphone sẽ làm mưa làm gió trong những tháng cuối năm 2020 với nhiều điểm vượt trội.

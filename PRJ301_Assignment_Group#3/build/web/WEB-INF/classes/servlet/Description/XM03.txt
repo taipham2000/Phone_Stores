@@ -1,0 +1,33 @@
+_tit: Mượt mà trong từng khung hình với tần số quét 144 Hz
+_txt: Tần số quét 144 Hz là một trong những điểm ấn tượng của Mi 10T Pro, cung cấp lên đến 144 khung hình/giây mang đến sự mượt mà tối đa, nâng cao mọi trải nghiệm cho dù bạn đang chơi game, xem phim hay chỉ đơn giản là cuộn trang web để xem tin tức.
+_img: xiaomi-mi-10t-pro-111720-101756.jpg
+_txt: Tính năng AdaptiveSync sáng tạo tự động điều chỉnh tốc độ làm mới từ 30 Hz đến 144 Hz để thích ứng với các đặc điểm của từng ứng dụng, do đó tìm thấy sự cân bằng hoàn hảo giữa trải nghiệm người dùng và tối ưu hóa mức tiêu thụ điện năng của thiết bị.
+_img: xiaomi-mi-10t-pro-112420-102432.jpg
+_txt: Xiaomi còn tích hợp MEMC - Công nghệ đặc biệt giúp cải thiện các nội dung, video có tần số quét thấp bằng cách bổ sung thêm những khung hình ảo giúp tái hiện lại những phân cảnh hành động trở nên rõ ràng và mượt mà hơn.
+_img: xiaomi-mi-10t-pro-111820-101820.jpg
+_txt: Mi 10T Pro trang bị màn hình viền siêu mỏng Full HD+ với camera selfie “đục lỗ” trong màn hình cho kích thước mở rộng lên đến 6.67 inch, hỗ trợ không gian màu DCI-P3 với độ bao phủ rộng hơn so với sRBG hiển thị màu sắc vô cùng chuẩn xác mang đến những thước phim, khung hình có độ trung thực cao.
+_img: xiaomi-mi-10t-pro-142420-032426.jpg
+_txt: Sử dụng Mi 10T Pro vô cùng thoải mái dễ chịu khi màn hình của máy có khả năng giảm bớt ánh sáng xanh gây mỏi mắt, màn hình đạt chứng nhận TÜV Rheinland có lượng ánh sáng xanh dương thấp bảo vệ đôi mắt của bạn.
+_tit: Chơi game cực “mướt” với Snapdragon 865
+_txt: Sức mạnh hiệu năng của Mi 10T Pro là “vô địch” trong tầm giá khi trang bị vi xử lý tối tân Qualcomm Snapdragon 865 gồm 8 nhân xung nhịp tối đa 2.84 GHz, tiến trình 7 nm tiên tiến mang đến hiệu năng ấn tượng mà ít tiêu tốn điện năng.
+_img: xiaomi-mi-10t-pro-111820-101827.jpg
+_txt: Qualcomm Snapdragon 865 cũng là con chip có tích hợp kết nối mạng 5G tốc độ cao, đang dần thay thế 4G trong thời gian sắp tới cùng Wifi 6 đáp ứng mọi nhu cầu tra cứu thông tin, chơi game trực tuyến hay xem phim chất lượng cao mọi lúc mọi nơi mọi không lo kết nối mạng yếu, chậm gây gián đoạn trải nghiệm của bạn.
+_txt: Bên cạnh đó, RAM và bộ nhớ trong của Mi 10T Pro cũng thuộc dạng khủng khi trang bị RAM 8 GB và bộ nhớ tốc độ UFS 3.1 nhanh nhất hiện nay, cho tốc độ mở ứng dụng vô cùng nhanh chóng, đa nhiệm mượt mà với độ trễ gần như bằng không.
+_img: xiaomi-mi-10t-pro-111920-101906.jpg
+_txt: Mi 10T Pro còn là mẫu điện thoại chơi game đáng tiền với nhiều tính năng giúp tăng trải nghiệm cho anh em game thủ như mô-tơ rung phản hồi xúc giác, loa kép âm thanh stereo, đặc biệt là công nghệ tản nhiệt LiquidCool giúp duy trì nhiệt độ lý tưởng trong suốt ván game giữ cho hiệu năng của thiết bị ổn định, bảo vệ tuổi thọ pin và các linh kiện bên trong.
+_tit: Camera 108 MP sắc nét, thoả thích thu phóng
+_txt: Về khả năng chụp ảnh, Mi 10T Pro trang bị cụm 3 camera sau trong đó ấn tượng nhất là camera chính độ phân giải khủng 108 MP sử dụng cảm biến cao cấp của Samsung cho ra những tấm hình với độ sắc nét kinh ngạc, cho phép bạn tùy ý thu phóng bất kỳ vị trí nào trong bức ảnh.
+_img: xiaomi-mi-10t-pro-142520-032538.jpg
+_txt: Không những vậy, với độ phân giải cao nên chỉ với zoom kỹ thuật số 30x là đã đủ để bạn khám phá những chi tiết ở rất xa nhưng bầu trời đêm đầy sao, nóc của tòa nhà cao tầng.
+_txt: Ngoài camera chính, Xiaomi không quên trang bị camera góc siêu rộng 13 MP với góc chụp 123 độ, bao quát toàn bộ mọi hình ảnh ngay trước mặt bạn và ghi chúng lại trong 1 khung hình duy nhất.
+_img: xiaomi-mi-10t-pro-111720-101742.jpg
+_txt: Những ai thích khám phá chắc sẽ không bỏ qua camera macro 5 MP, cho bạn không ngừng sự sáng tạo với những tác phẩm macro ấn tượng độc đáo hay chỉ đơn giản là tìm hiểu cuộc sống của thế giới thu nhỏ đầy bí ẩn.
+_txt: Mi 10T Pro còn hỗ trợ đa dạng nhiều tính năng chụp ảnh để bạn có thể sáng tạo theo cách riêng của mình như chế độ chụp siêu nhanh Timed Burst cho phép người dùng chụp nhiều ảnh theo thiết lập thời gian và chuyển đổi thành những đoạn video ấn tượng, cung cấp nhiều bộ lọc màu nghệ thuật, trong chế độ chuyên nghiệp bạn có thể chỉnh thời gian phơi sáng để tạo ra những bức ảnh chụp đường phố rực rỡ trong đêm.
+_img: xiaomi-mi-10t-pro-111720-101728.jpg
+_txt: Chế độ chụp đêm 2.0 cải tiến không chỉ đơn thuần là đẩy sáng cho bức hình, mà còn khử nhiễu, tái hiện cân bằng các vùng sáng, vùng tối thông minh để cho ra những tấm ảnh chụp đêm đẹp rõ chi tiết thể hiện cuộc sống về đêm sôi động đầy màu sắc.
+_img: xiaomi-mi-10t-pro-142720-042740.jpg
+_txt: Ống kinh của Mi 10T Pro còn trang bị khả năng quay phim 8K và cho phép bạn có thể chụp hình khi quay phim với độ phân giải 20 MP, để bạn không bỏ lỡ những khoảnh khắc thú vị trong khi đang quay phim.
+_img: xiaomi-mi-10t-pro-111920-101916.jpg
+_txt: Máy còn trang bị tính năng camera kép độc đáo, quay phim đồng thời bằng cả camera trước và sau, cho bạn tạo ra những đoạn video blog, TikTok vui vẻ cùng bạn bè.
+_txt: Camera selfie 20 MP được hỗ trợ đầy đủ tính năng từ làm xóa phông, nhận diện khuôn mặt cho đến làm đẹp thông minh giúp bạn tự tin tỏa sáng ngay với bạn bè và người thân.
+_img: xiaomi-mi-10t-pro-5g-1.jpg

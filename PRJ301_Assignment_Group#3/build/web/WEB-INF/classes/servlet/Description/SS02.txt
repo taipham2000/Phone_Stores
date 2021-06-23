@@ -1,0 +1,17 @@
+_tit: Thiết kế thời thượng cùng màu sắc bắt mắt
+_txt: Samsung Galaxy A32 4G có thiết kế nguyên khối với mặt lưng kính cường lực Gorilla Glass 5 chắc chắn không chỉ giúp bảo vệ máy mà còn tăng độ bóng bẩy cho smartphone, mang đến vẻ ngoài đẳng cấp cho người sở hữu.
+_img: samsung-galaxy-a32-4g1.jpg
+_txt: Tổng kích thước thân máy mỏng chỉ 8.4 mm và có trọng lượng 184 g, hai cạnh bên cũng được vát cong nhẹ nhàng nên việc cầm nắm cũng chắc chắn hơn và thuận tiện cho mọi tác vụ.
+_txt: Samsung Galaxy A32 4G cũng đem đến nhiều màu sắc để bạn có thể thoải mái lựa chọn theo sở thích của riêng mình.
+_img: samsung-galaxy-a32-4g7.jpg
+_tit: Màn hình giải trí sắc nét, đa chức năng
+_txt: Galaxy A32 4G được trang bị màn hình giọt nước Infinity-V với viền mỏng hai bên ấn tượng, mang đến không gian hiển thị rộng rãi, sắc nét và chi tiết. 
+_img: samsung-galaxy-a32-4g9.jpg
+_txt: Màn hình của máy có kích thước 6.4 inch, độ phân giải Full HD+ (1080 x 2400 pixels) sẽ mang đến chất lượng hình ảnh rõ nét cho các trình phát video và trò chơi giải trí.
+_txt: Hơn thế nữa, màn hình trên Samsung Galaxy A32 4G còn hỗ trợ tần số quét cao 90 Hz giúp gia tăng trải nghiệm giải trí chơi game cho người dùng.
+_tit: Bộ bốn camera sau đến 64 MP thỏa sức sáng tạo
+_txt: Điện thoại Samsung A32 4G được trang bị cụm camera sau tận bốn ống kính bao gồm: Camera chính 64 MP, camera góc rộng 8 MP, camera macro và camera cảm biến độ sâu cùng 5 MP. 
+_img: samsung-galaxy-a32-4g12.jpg
+_txt: Bên cạnh đó, máy còn hỗ trợ cho người dùng những tính năng chụp ảnh xóa phông hay quay phim thông minh như quay siêu chậm, Time Lapse,… cho bạn có thể ghi lại mọi khoảnh khắc một cách chuyên nghiệp, đầy tính nghệ thuật. 
+_img: samsung-galaxy-a32-4g5.jpg
+_txt: Mặt trước Samsung Galaxy A32 4G còn được trang bị camera selfie có độ phân giải 20 MP với khẩu độ f/2.2, hỗ trợ tính năng tự động lấy nét và nhận điện khuôn mặt thông minh giúp người dùng có những bức ảnh chụp trọn vẹn và đẹp mắt nhất.

@@ -1,0 +1,32 @@
+_tit: Màn hình Sunlight Super AMOLED cao cấp
+_txt: Nếu so sánh với flagship OPPO Find X2, OPPO Reno3 Pro cũng sở hữu thiết kế cao cấp và không kém phần sang trọng.
+_img: oppo-reno3-pro-024720-024744.jpg
+_txt: Thiết bị vẫn sở hữu tổng thể liền lạc và bóng bẩy, phần màn hình được làm cong mềm mại, mang tính thẩm mỹ cao mà còn giúp cho người dùng có cảm giác cầm nắm, vuốt chạm mượt tay, liền lạc hơn.
+_img: oppo-reno3-pro-024720-024753.jpg
+_txt: Thế hệ Reno3 Pro đã không còn kiểu thiết kế camera vây cá mập hay thò thụt như trên OPPO Reno2, Reno mà thay vào đó là kiểu thiết kế màn hình "nốt ruồi" với cụm camera kép đặt ở góc trái màn hình.
+_img: oppo-reno3-pro8-1.jpg
+_txt: Ưu điểm của kiểu thiết kế này chính là camera trước của máy sẽ hoạt động ổn định và bền hơn so với cơ chế cũ. Không gian hiển thị hầu như không bị ảnh hưởng, vẫn rất thoải mái khi chơi game hay làm việc trên chiếc smartphone này.
+_img: oppo-reno3-pro-024820-024810.jpg
+_txt: Máy sử dụng tấm nền Sunlight Super AMOLED Full HD+ cho màu sắc và độ tương phản tốt, bảo vệ sức khỏe mắt với tính năng lọc ánh sáng xanh và thay đổi độ sáng theo môi trường nhanh và chính xác hơn.
+_img: oppo-reno3-pro-024820-024849.jpg
+_tit: Camera chất lượng hàng đầu
+_txt: OPPO Reno3 Pro sở hữu cụm 4 camera với đầy đủ tính năng và công dụng mà người dùng mong muốn ở một chiếc smartphone hiện nay.
+_img: oppo-reno3-pro-024820-024801.jpg
+_txt: Bạn sẽ có một camera chính với độ phân giải lớn 64 MP, một camera tele 13 MP chụp những vật thể ở xa, một camera góc siêu rộng 8 MP và một ống kính macro 2 MP cho chụp cận cảnh đối tượng ở khoảng cách 2.5 cm.
+_img: oppo-reno3-pro5.jpg
+_txt: Camera trên Reno3 Pro cho ra hình ảnh xuất sắc trong điều kiện đủ sáng. Camera tele cũng cho ra kết quả xuất sắc khi có khả năng zoom quang 5X, zoom số đến 20X cực xa.
+_img: oppo-reno3-pro9.jpg
+_txt: Thiết bị cũng có chế độ nâng độ phân giải ảnh lên đến 108 MP cho ra bức ảnh siêu nét, tối ưu cho việc in ấn hay zoom cận các chi tiết nhỏ.
+_txt: Máy sở hữu nhiều chế độ chụp ảnh chuyên nghiệp cùng với sự trợ giúp của AI giúp bạn có thể làm chủ được camera trên chiếc smartphone của mình.
+_img: oppo-reno3-pro8.jpg
+_txt: Công nghệ video Siêu chống rung 2.0 với 2 chế độ Siêu chống rung và Siêu chống rung Pro, cho ra các đoạn video ổn định đến bất ngờ mà không cần đến thiết bị hỗ trợ nào khác.
+_txt: Camera selfie kép chắc chắn cũng sẽ không làm các bạn trẻ phải thất vọng bởi máy sở hữu bộ đôi ống kính có độ phân giải lên tới 44 MP và 2 MP.
+_img: oppo-reno3-pro4.jpg
+_txt: Với chế độ Siêu chụp đêm 2.0 cho phéo chụp ảnh selfie trong tối rõ nét hơn. Reno3 Pro dễ dàng xử lý các bức ảnh ảo diệu dưới ánh đèn neon hay trong các quán cafe lung linh.
+_txt: Tính năng làm đẹp bằng AI giúp loại bỏ những khuyết điểm trên khuôn mặt của bạn một cách tự nhiên để có thể đăng ngay lên facebook sau khi chụp mà không cần phải hậu kỳ.
+_tit: Pin dùng cả ngày, sạc siêu nhanh VOOC
+_txt: Chiếc smartphone OPPO này đi kèm với viên pin khủng 4.025 mAh hứa hẹn cho bạn thời gian trải nghiệm cả ngày.
+_img: oppo-reno3-pro-024820-024827.jpg
+_txt: Bên cạnh đó là khả năng sạc nhanh VOOC 4.0 30W giúp máy có thể sạc từ 0 đến 50% trong 20 phút và 0 đến 70% trong nửa giờ.
+_img: oppo-reno3-pro-024820-024840.jpg
+_txt: OPPO Reno3 Pro sở hữu dung lượng RAM 8 GB, bộ nhớ khủng 256 GB, cùng với hệ thống tệp F2FS cho tốc độ nhanh, trải nghiệm mượt mà. CPU Helio P95 mạnh mẽ cho bạn chiến game thỏa thích.

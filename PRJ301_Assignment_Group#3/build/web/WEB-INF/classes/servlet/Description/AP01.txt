@@ -1,0 +1,16 @@
+_tit: Giống iPhone 5 nhưng phóng to với màn hình tràn viền
+_txt: Không nằm ngoài dự đoán, iPhone 12 Pro quay lại thiết kế dạng hộp với phần khung viền vuông vức, mạnh mẽ đã từng xuất hiện trên iPhone 5, đồng thời kết thúc kỷ nguyên “bo cong” từ thế hệ iPhone 6.
+_img: iphone-12-pro-256gb-130121-030154.jpg
+_txt: Đúng như tên gọi Pro, Apple sử dụng chất liệu thép cao cấp cho phần khung viền thay vì nhôm như trên iPhone 12 và iPhone 12 Mini, mang đến độ bền vượt trội và diện mạo bóng bẩy sang trọng hơn.
+_img: iphone-12-pro-256gb-130121-030123.jpg
+_tit: Màn hình OLED sắc nét, bền bỉ với vật liệu gốm Ceramic cao cấp
+_txt: Máy trang bị tấm nền Super Retina XDR OLED cho hiển thị màu sắc vô cùng chuẩn xác với không gian màu P3, hỗ trợ HDR, True Tone, màu đen sâu tiết kiệm pin hơn, độ sáng cao 800 nit ấn tượng ở mọi góc nhìn.
+_img: iphone-12-pro-256gb-130021-030015.jpg
+_txt: iPhone 12 Pro vẫn có phần khuyết tai thỏ khá lớn do chứa cụm cảm biến Face ID nhận diện khuôn mặt. Tuy nhiên, điều này không phải là trở ngại, các ứng dụng cũng đã tối ưu tốt để không bi ảnh hưởng bởi tai thỏ.
+_img: iphone-12-pro-256gb-130221-030225.jpg
+_txt: Đặc biệt, màn hình trên iPhone 12 Pro còn là màn hình cứng và bền nhất trên các dòng iPhone từ trước đến nay, khi phủ một lớp gốm ceramic giúp màn hình hiển thị của bạn khỏi những vết trầy xước đáng kể cũng như mang lại độ bền cao, tốt hơn gấp 4 lần thông thường mỗi khi rơi vỡ.
+_txt: Máy có khả năng kháng nước chuẩn IP68, có thể chịu nước độ sâu lên tới 6 m khoảng trong vòng 30 phút. Vì vậy, bạn có thể yên tâm sử dụng iPhone 12 Pro ngoài trời mưa, hồ bơi, hạn chế rủi ro làm đổ, rơi vào nước làm hư hỏng thiết bị.
+_img: iphone-12-pro-256gb-294420-104406.jpg
+_tit: Kết nối 5G tốc độ nhanh ấn tượng
+_txt: 5G được xem là kết nối mạng di động nhanh nhất hiện tại. Đặc biệt, iPhone 12 Series cũng sẽ có khả năng chuyển đổi mạng linh hoạt giữa 5G và 4G LTE giúp tiết kiệm pin và duy trì kết nối ổn định.
+_img: iphone-12-pro-256gb-294820-104811.jpg

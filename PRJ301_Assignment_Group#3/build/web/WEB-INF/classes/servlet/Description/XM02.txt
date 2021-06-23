@@ -1,0 +1,25 @@
+_tit: Thiết kế nổi bật với cụm camera độc nhất
+_txt: Có thể thấy, điểm sáng trong thiết kế của Mi 11 đến từ cụm 3 camera mặt sau được đặt trong mô-đun hình vuông, được phân tầng với 2 lớp kính tạo nên sự khác biệt và nổi bật ngay từ cái nhìn đầu tiên.
+_img: xiaomi-mi-11-115121-115115.jpg
+_txt: Mi 11 sở hữu thân máy thanh mảnh với độ mỏng ấn tượng 8.06 mm, được vuốt cong dần về cạnh 2 bên, nối liền hoàn hảo với phần khung kim loại siêu mỏng và màn hình ở mặt trước tạo nên một khối liền mạch, cho bạn trải nghiệm cầm nắm tốt nhất.
+_img: xiaomi-mi-11-121621-031604.jpg
+_tit: Làm chủ mọi khung hình với bộ 3 camera 108 MP
+_txt: Với tổ hợp 3 cảm biến gồm có camera chính 108 MP, camera góc siêu rộng 13 MP và camera chụp cận macro 5 MP, cùng hệ thống phần cứng tối tân được trang bị bên trong. Tất cả đã làm nên đẳng cấp nhiếp ảnh di động chuyên nghiệp trên Mi 11.
+_img: xiaomi-mi-11-115121-115149.jpg
+_txt: Tích hợp bên trong camera chính 108 MP là cảm biến hình ảnh lớn 1/1.33 có hỗ trợ chống rung quang học OIS, với công nghệ pixel-binning cho phép gộp 4 điểm ảnh thành 1 điểm ảnh siêu sáng, Mi 11 cho phép người dùng chụp những bức ảnh trong điều kiện thiếu sáng mà vẫn có độ nét hoàn hảo.
+_img: xiaomi-mi-11-121921-031917.jpg
+_txt: Chụp phong cảnh, ảnh nhóm dễ dàng từ camera góc siêu rộng 123 độ 13 MP hay chụp ảnh chân dung ảo diệu với hiệu ứng xóa phông hút mắt.
+_img: xiaomi-mi-11-115121-115134.jpg
+_txt: Cuối cùng, camera macro sẽ giúp bạn chụp siêu cận ở khoảng cách gần, mang đến những tác phẩm macro ấn tượng, độc lạ.
+_img: xiaomi-mi-11-121121-031142.jpg
+_txt: Không chỉ chụp ảnh, Mi 11 còn sở hữu khả năng quay video nổi trội với chất lượng 8K, kèm theo đó là các thuật toán AI và giảm nhiễu RAW giúp tăng cường ánh sáng khi quay video trong điều kiện ánh sáng yếu.
+_tit: Hiệu năng hàng khủng với Snapdragon 888
+_txt: Được trang bị vi xử lý Qualcomm Snapdragon 888 cao cấp nhất, vừa được ra mắt gần đây với tiến trình 5 nm. Trang bị lõi Arm Cortex-X1 với xung nhịp khủng 2.84 GHz giúp tốc độ xử lý CPU tăng 25%, đồng thời tiết kiệm pin hơn so với Snapdragon 865.
+_img: xiaomi-mi-11-122221-032200.jpg
+_txt: Cùng sự nhảy vọt đáng kể về khả năng đồ họa với GPU Adreno 660 tăng 35%, Mi 11 hoàn toàn có thể chạy mượt bất kỳ tựa game mobile “hạng nặng” nào.
+_img: xiaomi-mi-11-114921-114958.jpg
+_txt: Mi 11 còn dẫn đầu về tốc độ xử lý AI khi trang bị bộ xử lý AI Engine thế hệ thứ 6 Hexagon 780 giúp cho máy có thể xử lý hình ảnh, video và các tác vụ AI, máy học diễn ra nhanh chóng hơn. 
+_img: xiaomi-mi-11-114921-114947.jpg
+_txt: Kết hợp với 8 GB RAM LPDDR5 và 256 GB bộ nhớ trong chuẩn UFS 3.1 với tốc độ hàng đầu, cùng công nghệ tản nhiệt chất lỏng VC, giúp cho Mi 11 phát huy hết sức mạnh của vi xử lý Snapdragon 888 khi thực hiện các tác vụ nặng.
+_img: xiaomi-mi-11-115021-115010.jpg
+_txt: Mi 11 được tích hợp MIUI 12.5 mới nhất hoạt động trên nền Android 11, được xem là bản cập nhật có nhiều cải tiến về bảo mật, tối ưu hiệu năng tốt hơn nhờ sử dụng bộ nhớ nền ít hơn 35% và giảm 25% mức tiêu thụ điện năng nhưng không làm giảm trải nghiệm và sự mượt mà trong mọi tác vụ.

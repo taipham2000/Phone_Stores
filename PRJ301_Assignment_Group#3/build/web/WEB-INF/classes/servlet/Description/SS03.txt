@@ -1,0 +1,37 @@
+_tit: Thiết kế cải tiến hướng đến sự hoàn thiện
+_txt: Samsung Galaxy Z Fold 2 vẫn giữ nguyên cơ chế màn hình gập ở thế hệ tiền nhiệm. Như một quyển sách, chiếc điện thoại mở ra để hiển thị màn hình lớn bên trong. Bên ngoài là một màn hình phụ tràn viền với thiết kế đục lỗ. 
+_img: samsung-galaxy-z-fold-2-302920-012935.jpg
+_txt: Những chất liệu cao cấp nhất đã được Samsung ưu ái trang bị lên Galaxy Z Fold 2, khung máy được làm từ nhôm, vuông vức hơn, giúp cho siêu phẩm màn hình gập mới của Samsung có một diện mạo nam tính và sang trọng hơn.
+_img: samsung-galaxy-z-fold-2-302920-012942.jpg
+_txt: Mặt lưng của thiết bị được hoàn thiện từ kính cao cấp, có độ bóng mờ giúp giảm để lại dấu vân tay. Bên cạnh màu đen truyền thống, màu vàng đồng - gam màu mới lần đầu được Samsung giới thiệu trên Galaxy Z Fold 2 cũng rất ấn tượng.
+_img: samsung-galaxy-z-fold-2-302920-012949.jpg
+_txt: Đáng chú ý là phần bản lề trên Galaxy Z Fold 2 đã được Samsung cải tiến giúp cho thao tác gập mở máy trở nên sắc sảo. Giờ đây người dùng có thể mở và sử dụng máy linh hoạt ở nhiều góc độ khác nhau tương tự như mẫu smartphone Samsung Galaxy Z Flip.
+_txt: Với độ mỏng chỉ 6.9 mm khi mở ra, gập lại thì máy lại càng gọn gàng hơn, giúp cho việc sử dụng bằng 1 tay trên màn hình phụ trở nên tối ưu hơn.
+_img: samsung-galaxy-z-fold-2-305720-025722.jpg
+_txt: Cạnh dưới của máy là loa ngoài, mic thoại và một cổng sạc. Thật đáng tiếc khi Samsung tiếp tục loại bỏ jack 3.5 mm trên những mẫu điện thoại cao cấp của mình.
+_tit: Màn hình lớn và bền hơn thế hệ cũ
+_txt: Màn hình phụ của Galaxy Z Fold 2 với thiết kế tràn viền Infinity-O, dùng camera đục lỗ trong màn hình giúp cho kích thước được mở rộng lên đến 6.23 inch, cho phép hiển thông tin nhiều hơn. Giờ đây bạn có thể sử dụng đầy đủ các tính năng như một màn hình độc lập, mà không bị giới hạn như thế hệ trước.
+_img: samsung-galaxy-z-fold-2-302920-012956.jpg
+_txt: Khi mở ra, bên trong hé lộ một màn hình chính 7.59 inch. Giống như màn hình phụ, Samsung đã thay thế phần khuyết tai thỏ khá lớn trên thế hệ cũ bằng camera đục lỗ. Đặc biệt, hỗ trợ tần số quét khủng 120 Hz cho thao tác chuyển động mượt mà giúp tăng trải nghiệm khi sử dụng, chơi game.
+_img: samsung-galaxy-z-fold-2-303020-013013.jpg
+_txt: Màn hình gập lần này đã bền và chắc chắn hơn nhờ vào lớp kính siêu mỏng Ultra Thin Glass (UTG), được Samsung sử dụng để gia cố tăng cường độ cứng, nhưng vẫn giữ được độ linh hoạt của màn hình gập vốn dĩ rất “mong manh” trên thế hệ cũ.
+_img: samsung-galaxy-z-fold-2-172420-032435.jpg
+_txt: Cả 2 màn hình này đều sử dụng tấm nền AMOLED. Cụ thể, Dynamic AMOLED trên màn hình chính trong khi màn hình phụ sẽ là Super AMOLED độ phân giải cực cao, cho trải nghiệm cực kỳ sống động, màu sắc rực rỡ trong từng khung hình, từng thước phim.
+_img: samsung-galaxy-z-fold-2-172920-032902.jpg
+_tit: Bộ 5 camera kiến tạo tuyệt tác
+_txt: Galaxy Z Fold 2 có tổng cộng 5 camera, bao gồm cụm 3 camera sau, 2 camera phụ hỗ trợ Selfie và Video Call.
+_txt: Thiết kế cụm camera chính trên Z Fold 2 rất giống với Samsung Galaxy Note 20 với thiết kế đặt dọc trong mô-đun hình chữ nhật quen thuộc. Thông số cụm camera này bao gồm: camera góc rộng, camera góc siêu rộng và camera tele hỗ trợ zoom xa 2x, tất cả đều có độ phân giải 12 MP.
+_img: samsung-galaxy-z-fold-2-303020-013022.jpg
+_txt: Với độ phân giải này, cả 3 camera đều sẽ cho chất lượng ảnh khá đồng đều, ấn tượng và sắc nét đến từ 1 flagship hàng đầu. Với camera trên Z Fold 2, bạn sẽ có những góc chụp siêu rộng cực chất hay tự tin phô diễn những khung hình cận cảnh độ chi tiết cao với camera tele zoom xa.
+_txt: Về tính năng, Galaxy Z Fold 2 sẽ không làm bạn thất vọng khi trang bị rất nhiều tính năng hàng đầu như HDR, chống rung quang học OIS, lấy nét theo pha PDAF cực nhanh giúp cho bức ảnh vẫn giữ độ sắc nét kinh ngạc bất kể điều kiện chụp thiếu sáng hay đối tượng bạn chụp đang di chuyển.
+_img: samsung-galaxy-z-fold-2-305120-015103.jpg
+_txt: Ngoài ra, Galaxy Z Fold 2 cũng sẽ có tới 2 camera sefle dạng đục lỗ ở cả màn chính và màn hình phụ. Với tính năng làm đẹp AI, chụp chân dung xóa phông sẽ giúp bạn trở nên cuốn hút trong từng khung hình.
+_tit: Hiệu năng dẫn đầu với Snapdragon 865+
+_txt: Không ngoài dự đoán, Samsung đã dành tặng cho các bạn game thủ chiếc điện thoại chơi game khi được trang bị vi xử lý hàng đầu của Android với Snapdragon 865+ mang đến hiệu năng mạnh mẽ nhất hiện nay, tốc độ xử lý cực nhanh chóng cho mọi tác vụ từ hàng ngày cho đến những tác vụ nặng như chơi game 3D, xử lý hình ảnh, video.
+_img: samsung-galaxy-z-fold-2-303020-013029.jpg
+_txt: Kết hợp với bộ nhớ RAM 12 GB chuẩn LPDDR5, bộ nhớ trong 256 GB tốc độ UFS 3.1 truy xuất cực nhanh, Samsung Galaxy Z Fold 2 hứa hẹn sẽ tiếp tục bỏ xa nhiều đối thủ khác trên cuộc đua hiệu năng.
+_txt: Tính năng Samsung Dex cho phép Samsung tận dụng tối đa cấu hình mạnh mẽ trên Z Fold 2. Nhờ việc truyền nội dung lên một màn hình lớn với giao diện desktop, giúp bạn có thể sử dụng Galaxy Z Fold 2 như một máy tính cá nhân chạy Android thực thụ.
+_txt: Bên cạnh đó, giao diện One IU mượt mà sẽ cung cấp nhiều tiện ích như trợ lý ảo Samsung Bixby, Màn hình luôn sáng AOD, Samsung Pay đều là những tính năng hữu ích, mang đến nhiều trải nghiệm thú vị cho người dùng.
+_txt: Là một chiếc điện thoại pin trâu Galaxy Z Fold 2 có dung lượng pin 4.500 mAh, đảm bảo nhu cầu sử dụng cơ bản trong ngày. Bù lại, máy sẽ sạc đầy năng lượng nhanh chóng trở lại nhờ sạc nhanh 25 W và lẫn sạc không dây 11 W.
+_img: samsung-galaxy-z-fold-2-303820-013819.jpg
+_txt: Galaxy Fold Z 2 không chỉ đơn thuần là một chiếc flagship, mà là lời khẳng định vị thế đứng đầu của của Samsung. Khắc phục nhiều nhược điểm trên thế hệ cũ kèm nhiều nâng cấp đáng giá, giúp cho Galaxy Z Fold 2 sẽ còn là cái tên được giới công nghệ săn đón trong thời gian sắp tới.

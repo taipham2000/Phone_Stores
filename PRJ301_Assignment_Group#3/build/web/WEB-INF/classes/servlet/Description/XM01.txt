@@ -1,0 +1,16 @@
+_tit: Trẻ trung với màu sắc nổi bật
+_txt: Xiaomi duy trì sự trẻ trung trong thiết kế của mình từ Redmi 9A, Redmi 9C và đến hiện tại là Redmi 9T, chiếc điện thoại mang đến tùy chọn màu nổi bật, rất phù hợp với cá tính năng động của giới trẻ.
+_img: xiaomi-redmi-9t-6gb-114621-014639.jpg
+_txt: Redmi 9T có trọng lượng nhẹ nhờ sử dụng chất liệu nhựa quen thuộc. Bề mặt máy là những họa tiết đường vân gợn sóng mang đến trải nghiệm cầm nắm tốt hơn đồng thời hạn chế bám dấu vân tay, thiết kế mặt lưng càng trở nên nổi bật với hiệu ứng vân sáng đồng tâm phát ra từ cụm camera.
+_img: xiaomi-redmi-9t-6gb-114721-014739.jpg
+_txt: Cảm biến vân tay được đặt vào cạnh bên, giúp bạn dễ dàng mở khóa nhanh chỉ với một chạm, mà không làm ảnh hưởng đến sự liền mạch trong thiết kế.
+_tit: Màn hình siêu lớn, trải nghiệm hoàn hảo
+_txt: Sở hữu màn hình cực lớn, độ phân giải Full HD+, cùng mật độ điểm ảnh cao lên đến 395 ppi, cho phép Redmi 9T có thể hiển thị nhiều nội dung giải trí hơn với chất lượng rõ nét, màu sắc tươi tắn cùng góc nhìn rộng.
+_img: xiaomi-redmi-9t-6gb-114621-014646.jpg
+_txt: Màn hình Redmi 9T đạt chứng nhận TÜV Rheinland giảm đáng kể ánh sáng xanh phát ra, cung cấp nhiều chế độ hiển thị giúp giảm tình trạng mỏi mắt khó chịu khi sử dụng.
+_txt: Bên cạnh đó, thiết kế kiểu màn hình giọt nước viền mỏng, tối ưu nội dung hiển thị, giúp cho việc chơi game, xem phim của bạn thêm sống động và ấn tượng hơn.
+_tit: Chip “Rồng” 662 tốc độ nhanh, ổn định trong tầm giá
+_txt: Trang bị vi xử lý Snapdragon 662 8 nhân mạnh mẽ, giúp cho mọi trải nghiệm trên Redmi 9T trở nên mượt mà, tốc độ mở ứng dụng nhanh. Không chỉ vậy, Redmi 9T còn đủ sức “cân” được những tựa game hot hiện nay khá ổn định ở mức đồ họa trung bình.
+_img: xiaomi-redmi-9t-6gb-115321-015311.jpg
+_txt: Ngoài ra bạn còn có tới 6 GB RAM và 128 GB bộ nhớ trong, giúp chiếc máy vận hành trơn tru khi mở nhiều ứng dụng, cũng như thoải mái cài đặt ứng dụng, game, quay video thả ga mà không lo nghĩ về vấn đề lưu trữ.
+_img: xiaomi-redmi-9t-6gb-114721-014717.jpg
