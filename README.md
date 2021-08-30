@@ -6,6 +6,12 @@
 * This repo has a basic project about Java-Web
 * Techs: Java EE 8,SQLServer, MVC, NetBeans8.2
 
+### Project functions include:
+- Add to cart
+- CRUD product
+- Order history
+- View product details
+- User and admin account roles...
 
 ## Have fun with my code and feel free to give me any comments
 
